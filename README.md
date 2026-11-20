@@ -3,7 +3,7 @@
 
 ### INTRODUCTION
 
-![](introductory image.jpg)
+![](introductory_image.jpg)
 This project examines the distribution of wealth among the 200 individuals listed in the supplied Top 200 Richest Person in the World dataset. The analysis uses SQL queries to explore billionaire rankings, age, country representation, industry concentration and net worth. The purpose is to turn the supplied records into findings that can support a clear understanding of where billionaire wealth is concentrated and how the listed individuals are distributed across demographic and economic groups.
 
 ### BUSINESS SCENARIO AND OBJECTIVES
