@@ -102,7 +102,7 @@ The ten richest people hold US$1,552.0 billion, or 24.37% of the total. That is 
 ## DASHBOARD ANALYSIS
 ### Billionaire Wealth Intelligence – Interactive SQL Analysis Dashboard
 
-![](Dashboard_1.jpg)
+![](Dashboard_1.png)
 The Billionaire Wealth Analysis Dashboard provides an interactive visual exploration of the wealth distribution of the world's 200 richest individuals. Developed as part of an SQL data analytics project, the dashboard uses data-driven visualisations to examine billionaire representation across countries, industries and age groups.
 
 The dashboard highlights key performance indicators, including total net worth of US$6,368.5 billion, a total of 200 billionaires, average net worth of US$31.84 billion, and representation across 37 countries.
